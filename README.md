@@ -4,7 +4,9 @@ This repository provides R code for reproducing the results in Section 5 of the 
 
 Zheng, X., Kottas, A., and Sansó, B. (2021), “On Construction and
 Estimation of Stationary Mixture Transition Distribution Models,”
-[*arXiv:2010.12696*](https://arxiv.org/abs/2010.12696)
+*Journal of Computational and Graphical Statistics*.
+\[[journal](https://www.tandfonline.com/doi/full/10.1080/10618600.2021.1981342)\]
+\[[arXiv](https://arxiv.org/abs/2010.12696)\]
 
 The R Code are in `code/` and data files are in `data/`. 
 To run the code, install R package `mtd` from https://github.com/xzheng42/mtd.
